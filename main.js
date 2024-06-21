@@ -62,7 +62,7 @@ $(function() {
       audio.load();
 
       if (skip_intro && !ep.live) {
-        audio.currentTime = 40;
+        audio.currentTime = 45;
       }
     }
 
